@@ -1,4 +1,4 @@
-# wordscrapper
+# WordScrapper Game
 
 ![alt text](<Screenshot 2024-04-11 184154.png>)
  
