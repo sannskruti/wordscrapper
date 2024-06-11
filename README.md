@@ -21,6 +21,8 @@ For all the below:
 
 ### Home Page
 
+![alt text](<Screenshot 2024-04-15 141203-1.png>)
+
 When the User loads the page (path: `/`)
 - the site will determine if the user is logged in (based on `sid` session cookie)
 
