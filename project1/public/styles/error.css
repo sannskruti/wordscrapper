@@ -1,0 +1,26 @@
+
+.error-container {
+    margin: 2rem auto;
+    width: 100%; 
+    max-width: 25rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    border-radius: 1rem;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 0 1rem rgb(37, 36, 36);
+}
+
+.error-container p {
+    color: red;
+    margin-bottom: 2rem;
+}
+
+.error-container a {
+    color: blue;
+    margin-bottom: 2rem;
+}

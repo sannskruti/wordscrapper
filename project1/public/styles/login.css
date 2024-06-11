@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  font-family: monospace;
+}
+.container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  /* background-image: url("../assests/wallpaper.avif"); */
+}
+.container-Img {
+  width: 100%;
+  height: auto;
+  /* height: 100vh; */
+}
+#login {
+  position: absolute;
+  margin-top: -228px;
+  margin-left: 184px;
+  /* top: 80%;
+  left: 30%;
+  transform: translate(-50%, -50%); */
+}
+.game-name {
+  font-size: 8rem;
+  color: white;
+  margin-top: -43rem;
+  margin-left: 19rem;
+}
+.input-form {
+  margin-left: 31rem;
+  margin-top: 5rem;
+}
+
+.textbox {
+  padding: 1.5rem;
+  width: 16rem;
+  border-radius: 1rem;
+  border: solid rgba(165, 3, 57, 0.853);
+  color: rgba(165, 3, 57, 0.853);
+  font-size: x-large;
+}
+.textbox:hover {
+  box-shadow: 0 0 1rem rgb(238, 238, 237);
+}
+
+.submit-btn {
+  margin-left: 1rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  border: solid rgba(165, 3, 57, 0.853);
+  font-size: x-large;
+  cursor: pointer;
+}
+.submit-btn:hover {
+  background-color: rgba(165, 3, 57, 0.853);
+  color: white;
+  box-shadow: 0 0 1rem rgb(238, 237, 237);
+}
